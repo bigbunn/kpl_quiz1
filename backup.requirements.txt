@@ -1,8 +1,0 @@
-numpy
-pandas
-os
-pickle
-datetime
-sklearn 
-forex_python
-locale
