@@ -16,3 +16,7 @@
     ```bash
     streamlit run app.py
     ```
+
+## Deployed Application
+
+You can see at the deployed application in https://salpred.streamlit.app/
